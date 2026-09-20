@@ -1,10 +1,15 @@
 # AI film kit
 
-The working method behind three short films, packaged so an agent can run it with you.
+**Turn your agent into your assistant director.**
 
-Nothing here is theory. Every rule was bought with a failed generation, and most of
-them cost real credits. Where a rule came from someone else's tutorial or someone
-else's skill file, it is only in here because it survived contact with an actual shoot.
+This is my working infrastructure for making film with AI, packaged so you can hand it
+to an agent and have it run beside you. It knows how to build the assets, how to write
+a shot prompt, and what usually goes wrong.
+
+Nothing here is theory. All of it came out of trial and error: every rule was bought
+with a failed generation, and most of them cost real credits. Where something came from
+someone else's tutorial or someone else's skill file, it is in here only because it then
+survived contact with an actual shoot.
 
 ## Install
 

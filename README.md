@@ -60,3 +60,7 @@ canon, environment plate for geography), the degree-based lens ladder, the geome
 map, the first-frame instruction.
 
 Model rosters and prices move fast. Trust the tool's own UI over anything written here.
+
+## License
+
+MIT. Take it, change it, ship with it.

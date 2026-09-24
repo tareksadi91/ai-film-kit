@@ -61,6 +61,11 @@ map, the first-frame instruction.
 
 Model rosters and prices move fast. Trust the tool's own UI over anything written here.
 
+## Presentation
+
+`presentation/making-ai-videos.html` is the talk this kit came out of. It is one
+self-contained file: download it and open it in a browser.
+
 ## License
 
 MIT. Take it, change it, ship with it.
